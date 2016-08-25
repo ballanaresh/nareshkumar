@@ -1,0 +1,8 @@
+<icon src="images/profile1.jpg" platform="android" width="57" height="57" density="mdpi" />
+
+  <platform name="android">
+              <icon src="images/profile1.jpg" density="ldpi" />
+              <icon src="images/profile1.jpg" density="mdpi" />
+              <icon src="images/profile1.jpg" density="hdpi" />
+              <icon src="images/profile1.jpg" density="xhdpi" />
+     </platform>
