@@ -14,10 +14,10 @@
     </application>
 	
 	 <platform name="android">
-              <icon src="images/profile1.jpg" density="ldpi" />
-              <icon src="images/profile1.jpg" density="mdpi" />
-              <icon src="images/profile1.jpg" density="hdpi" />
-              <icon src="images/profile1.jpg" density="xhdpi" />
+              <icon src="assets\www\images\profile1.jpg" density="ldpi" />
+              <icon src="assets\www\images\profile1.jpg" density="mdpi" />
+              <icon src="assets\www\images\profile1.jpg" density="hdpi" />
+              <icon src="assets\www\images\profile1.jpg" density="xhdpi" />
      </platform>
 	 
 </manifest>
